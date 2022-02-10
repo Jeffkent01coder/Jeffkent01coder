@@ -1,5 +1,5 @@
 ### Hi there 👋 Nice to meet you.
-I am Jeffkent01coder and an Android Developer, Java Developer, Mobile software developer, web Designer and active python enthusiast.<br/>
+I am **Jeffkent01coder** and **an Android Developer, Java Developer, Mobile software developer, web Designer and active python enthusiast**.<br/>
 🔭 I’m currently working on Jetpack Compose and more of kotlin and some Python.<br/>
 🌱 I’m currently learning Jetpack Compose.<br/>
 💬 Ask me about android app development.<br/>
