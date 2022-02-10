@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 Nice to meet you.
+I am Jeffkent01coder and an Android Developer, Java Developer, Mobile software developer, web Designer and active python enthusiast.
+🔭 I’m currently working on Jetpack Compose and more of kotlin and some Python.
+🌱 I’m currently learning Jetpack Compose.
+💬 Ask me about android app development.
+
+Find me on (Twiter)[www.ggoggle.com]
 
 <!--
 **Jeffkent01coder/Jeffkent01coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
