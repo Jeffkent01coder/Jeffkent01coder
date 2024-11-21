@@ -6,7 +6,6 @@ I am **Jeffkent01coder** and **a Full stack Android Engineer(Kotlin,React Native
 👯 I’m looking to collaborate on more expirenced developers.<br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeffkent01coder&theme=default)
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffkent01coder&layout=compact"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jeffkent01coder&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeffkent01coder&theme=radical"/>
 <img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jeffkent01coder&theme=radical&utcOffset=8"/>
