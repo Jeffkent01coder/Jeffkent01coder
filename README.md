@@ -1,19 +1,49 @@
-### Hi there 👋 Nice to meet you.
-I am **Jeffkent01coder** and **a Full stack Android Engineer(Kotlin,React Native and KMM ), UI/UX Designer(Figma), Web Designer and active python enthusiast in machine learning and Backend development**.<br/>
-🔭 I’m currently working on Jetpack Compose and more of kotlin and some Python.<br/>
-🌱 I’m currently learning Jetpack Compose.<br/>
-💬 Ask me about android app development.<br/>
-👯 I’m looking to collaborate on more expirenced developers.<br/>
+<h1 align="center">👋 Hello, I'm Geoffrey. Nice to meet you</h1>
+<h3 align="center">A Passionate Software Engineer</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-Flutter-blue?style=for-the-badge&logo=flutter" alt="Flutter">
+<img src="https://img.shields.io/badge/Focus-Node.js-green?style=for-the-badge&logo=node.js" alt="Node.js">
+<img src="https://img.shields.io/badge/Open_to-Collaboration-blue?style=for-the-badge&logo=github" alt="Collaboration">
+<img src="https://img.shields.io/badge/Also_Work_With-Kotlin_|_Figma_|_Jetpack_Compose-orange?style=for-the-badge&logo=kotlin" alt="Kotlin, Figma & Jetpack Compose">
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeffkent01coder&theme=default)
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jeffkent01coder&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeffkent01coder&theme=radical"/>
-<img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jeffkent01coder&theme=radical&utcOffset=8"/>
-<img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeffkent01coder&theme=default"/>
+## 🚀 Quick Facts
 
-[<img src="https://user-images.githubusercontent.com/61431856/117953691-efe3b300-b31e-11eb-9968-b8b0dce1b9bc.jpg" height = "25px" width ="100px"/>](https://twitter.com/CodexKent)
+- 🔭 Currently working with **Kotlin(XML and Jetpack Compose) and Figma (UI/UI and Graphic Design)**
+- 👯 Looking to collaborate on **Flutter** and **Node.js** projects
+- 🌱 Experienced in **Kotlin**, **Figma** and **Mobile development**
+- 💬 Ask me about android app development.
+- 📫 Reach me at: [geoffreyerastus956@gmail.com](mailto:geoffreyerastus956@gmail.com)
 
-[<img src="https://user-images.githubusercontent.com/61431856/117953182-8cf21c00-b31e-11eb-82b8-06b0fa7d62ec.png" height = "25px" width ="100px"/>](https://www.linkedin.com/in/geoffrey-erastus-3a185a214/)
+ ## 🛠️ Languages and Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,bootstrap,css,docker,git,html,postgres,mongo,firebase,nestjs,kotlin,flutter,figma&perline=9" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffkent01coder&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" alt="Jeff's streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffkent01coder&theme=shadow_blue&layout=compact" alt="Top Languages" />
+</p>
+
+## 🌱 Contributions
+
+<p align="center">
+  <img src="contributions.svg" alt="Contributions Graph" />
+</p>
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+</p>
+<p align="center">
+  <a href="[https://linkedin.com/in](https://www.linkedin.com/in/geoffrey-erastus-3a185a214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/CodexKent" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="https://jeff-portifolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+</p>
 
 
