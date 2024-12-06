@@ -24,12 +24,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffkent01coder&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" alt="Jeff's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeffkent01coder&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffkent01coder&theme=shadow_blue&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffkent01coder&theme=radical&layout=compact" alt="Top Languages" />
 </p>
+
+
+
+
+
+
+
+
+
 
 ## 🌱 Contributions
 
