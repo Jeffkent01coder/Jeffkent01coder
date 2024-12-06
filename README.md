@@ -18,7 +18,7 @@
  ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,bootstrap,css,docker,git,html,postgres,mongo,firebase,nestjs,kotlin,flutter,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,bootstrap,css,docker,git,html,postgres,mongo,firebase,kotlin,flutter,figma&perline=9" />
 </p>
 
 ## 📊 GitHub Stats
