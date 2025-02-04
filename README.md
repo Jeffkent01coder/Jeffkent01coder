@@ -23,9 +23,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jeffkent01coder&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="160" src="https://github-readme-streak-stats-eight.vercel.app/?user=Jeffkent01coder&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </a>
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffkent01coder&theme=radical&layout=compact" alt="Top Languages" />
